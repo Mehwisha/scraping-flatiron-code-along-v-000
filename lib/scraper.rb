@@ -40,4 +40,4 @@ end
 
 end
 Scraper.new.get_page
-raper.new.print_courses
+Scraper.new.print_courses
